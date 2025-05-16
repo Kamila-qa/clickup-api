@@ -1,4 +1,4 @@
-# cucumber-trello-api
+# clickup-api
 
 ## Run Automated Tests
 To run the tests use maven command:
